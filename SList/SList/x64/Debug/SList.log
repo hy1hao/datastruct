@@ -1,0 +1,13 @@
+﻿  SList.c
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(11,18): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(56,21): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(58,23): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(89,21): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(108,28): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(124,22): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(138,20): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(148,21): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(156,20): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(158,19): warning C4133: “=”: 从“SListNode *”到“SListNode *”的类型不兼容
+E:\SynologyDrive\开发\code\datastruct\SList\SList\SList.c(155,1): warning C4133: “初始化”: 从“SListNode *”到“SListNode *”的类型不兼容
+  SList.vcxproj -> E:\SynologyDrive\开发\code\datastruct\SList\x64\Debug\SList.exe
